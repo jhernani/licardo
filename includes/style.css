@@ -1,0 +1,37 @@
+#banner
+{
+	width: 100%;
+	height: 30%;
+	position: relative;
+}
+
+.rightpart
+{
+	width:50%;
+	float: left;
+}
+.leftpart
+{
+	width:50%;
+	float: left;
+}
+img
+{
+	width: 100%;
+	height: 100%;
+
+}
+
+.two.column
+{
+	width: 50%;
+	float: left;
+}
+
+a
+{
+	color:black;
+}
+
+
+tr:hover {    background: lightgreen !important; }
